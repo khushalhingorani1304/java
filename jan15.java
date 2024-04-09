@@ -20,6 +20,8 @@ public class jan15 {
         System.out.println(ab2.sum());
         System.out.println(ab1.sum());
     }
+
+    
     
     
 }
